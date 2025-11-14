@@ -10,7 +10,7 @@ Team :
 
 The Repository Contains : 
 
-    Origianl Paper PDF (https://ieeexplore.ieee.org/document/6676251)
+    Original Paper PDF (https://ieeexplore.ieee.org/document/6676251)
     Our Report PDF 
     Our Presentation PPT PDF
     GNU Radio grc file
